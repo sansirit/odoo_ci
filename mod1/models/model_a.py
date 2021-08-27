@@ -6,3 +6,5 @@ class ModelName(models.Model):
     _description = 'Description'
 
     name = fields.Char()
+while   we;rlkwj;
+
